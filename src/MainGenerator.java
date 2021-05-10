@@ -10,5 +10,6 @@ public class MainGenerator {
         FeedingGenerator.generate(300);
         MedicalCheckupGenerator.generate(100);
         VisitsGenerator.generate(100);
+        CleaningsGenerator.generate(200);
     }
 }
